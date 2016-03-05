@@ -3,7 +3,7 @@ h1 a {
 }
 
 body {
-    padding-left: 20px;
+    padding-left: 50px;
 }
 
 
@@ -20,11 +20,12 @@ body {
 }
 
 .content {
-    margin-left: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Bree serif', cursive;
 }
 
 .date {
